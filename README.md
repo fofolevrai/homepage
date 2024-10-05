@@ -39,4 +39,4 @@ Scripts demonstrating the use of `pararrayfun` for parallel processing in Matlab
 - [LinkedIn](https://www.linkedin.com/in/fossaert/)
 - [GitHub](https://github.com/fofolevrai)
 
-Thank you for visiting my profile and happy coding ;-)
+Thank you for visiting my profile and happy coding :coffee::wink:
