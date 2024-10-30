@@ -24,10 +24,10 @@ Sample applications for FreeRTOS + micro-ROS.
 
 > [Go to repository](https://github.com/fofolevrai/freertos_apps)
 
-### 4. pc2Gen_API
+### 4. pc2Gen_lib
 A C sensor_msgs/PointCloud2 message handler API.
 
-> [Go to repository](https://github.com/fofolevrai/pc2Gen_API)
+> [Go to repository](https://github.com/fofolevrai/pc2Gen_lib)
 
 ### 5. pararrayfun_script
 Scripts demonstrating the use of `pararrayfun` for parallel processing in Matlab/Octave.
